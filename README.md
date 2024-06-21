@@ -37,7 +37,7 @@ pip install pandas numpy scikit-learn seaborn matplotlib
 ## Usage
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/Breast_Cancer_Clustering_Classification.git
+git clone https://github.com/yash2010/Breast_Cancer_Clustering_Classification.git
 ```
 2. Navigate to the project directory:
 ```sh
